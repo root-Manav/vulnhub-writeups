@@ -1,4 +1,13 @@
-Title: VulnHub write-ups 
-Description: Collection of VulnHub lab write-ups. 
-Objectives practice penetration testing, improve enumeration and exploitation skills, document methods and findings. 
-Repo structure: each machine gets its own folder with its own README.
+# VulnHub Write-ups
+A collection of hands-on penetration-testing write-ups documenting my
+practice with vulnerable machines from VulnHub.
+
+# Objectives
+- Practice penetration testing in controlled lab environments.
+- Improve network and service enumeration skills.
+- Learn vulnerability analysis, exploitation, and privilege
+  escalation.
+- Document commands, methodology, findings, and lessons learned.
+  
+# Write-ups
+Each machine has its own folder containing its detailed walkthrough.
